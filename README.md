@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Evandro Pedro:computer:
+# Evandro Pedro:computer:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
