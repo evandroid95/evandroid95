@@ -8,5 +8,5 @@ My name is Evandro and...
 
 - :tiger:I Like Animals
 
-- :musical_note:s:And i like to listen music
+- :musical_note:and i like to listen music
 
