@@ -8,5 +8,5 @@ My name is Evandro and...
 
 - :tiger:I Like Animals
 
-- :earth_americas:And i like to travel 
+- :musical_note:s:And i like to listen music
 
